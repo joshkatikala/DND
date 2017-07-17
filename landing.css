@@ -13,7 +13,7 @@ h1 {
 
 .center {
    width: 100%; 
-   margin-top: 12%;
+   margin-top: 15%;
    margin-left: auto; 
    margin-right: auto;
 }
@@ -29,90 +29,88 @@ h1 {
     background-color: #85bb65;
 }
 
-input.inputcase1[type="checkbox"]:before {
+input.inputcase1[type="radio"]:before {
     content: url("./images/case1.png");
     width: 10px;
     display: block;
 }
 
-input.inputcase2[type="checkbox"]:before {
+input.inputcase2[type="radio"]:before {
     content: url("./images/case2.png");
     width: 10px;
     display: block;
 }
 
-input.inputcase3[type="checkbox"]:before {
+input.inputcase3[type="radio"]:before {
     content: url("./images/case3.png");
     width: 10px;
     display: block;
 }
-input.inputcase4[type="checkbox"]:before {
+input.inputcase4[type="radio"]:before {
     content: url("./images/case4.png");
     width: 10px;
     display: block;
 }
-input.inputcase5[type="checkbox"]:before {
+input.inputcase5[type="radio"]:before {
     content: url("./images/case5.png");
     width: 10px;
     display: block;
 }
-input.inputcase6[type="checkbox"]:before {
+input.inputcase6[type="radio"]:before {
     content: url("./images/case6.png");
     width: 10px;
     display: block;
 }
-input.inputcase7[type="checkbox"]:before {
+input.inputcase7[type="radio"]:before {
     content: url("./images/case7.png");
     width: 10px;
     display: block;
 }
-input.inputcase8[type="checkbox"]:before {
+input.inputcase8[type="radio"]:before {
     content: url("./images/case8.png");
     width: 10px;
     display: block;
 }
-input.inputcase9[type="checkbox"]:before {
+input.inputcase9[type="radio"]:before {
     content: url("./images/case9.png");
     width: 10px;
     display: block;
 }
-input.inputcase10[type="checkbox"]:before {
+input.inputcase10[type="radio"]:before {
     content: url("./images/case10.png");
     width: 10px;
     display: block;
 }
-input.inputcase11[type="checkbox"]:before {
+input.inputcase11[type="radio"]:before {
     content: url("./images/case11.png");
     width: 10px;
     display: block;
 }
-input.inputcase12[type="checkbox"]:before {
+input.inputcase12[type="radio"]:before {
     content: url("./images/case12.png");
     width: 10px;
     display: block;
 }
-input.inputcase13[type="checkbox"]:before {
+input.inputcase13[type="radio"]:before {
     content: url("./images/case13.png");
     width: 10px;
     display: block;
 }
-input.inputcase14[type="checkbox"]:before {
+input.inputcase14[type="radio"]:before {
     content: url("./images/case14.png");
     width: 10px;
     display: block;
 }
-input.inputcase15[type="checkbox"]:before {
+input.inputcase15[type="radio"]:before {
     content: url("./images/case15.png");
     width: 10px;
     display: block;
 }
-input.inputcase16[type="checkbox"]:before {
+input.inputcase16[type="radio"]:before {
     content: url("./images/case16.png");
     width: 10px;
     display: block;
 }
-
-
 
 
 #case1{
@@ -124,9 +122,9 @@ input.inputcase16[type="checkbox"]:before {
 }
 
 .button {
-    background-color: #4CAF50;
+    background-color: #333;
     border: none;
-    color: white;
+    color: #85bb65;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -140,15 +138,4 @@ input.inputcase16[type="checkbox"]:before {
     background-color: #85bb65;
     border: 1px solid #333;
     color: white;
-}
-
-a{
-    text-decoration: none;
-    text-decoration-color: none: 
-}
-
-.yourcase{
-    width: 100%;
-    margin-right: 5px;
-    margin-top: 5px;
 }
