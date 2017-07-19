@@ -1,0 +1,3 @@
+http://codd.cs.gsu.edu/~jkatikala1/project2/landing.php
+
+Case 1 and 7 are solvable
